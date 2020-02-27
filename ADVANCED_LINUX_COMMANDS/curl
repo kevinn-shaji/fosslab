@@ -1,0 +1,2 @@
+curl is a command line tool to transfer data to and from a server, using any of the supported protocols.
+The most basic uses of curl is typing the command followed by the URL.

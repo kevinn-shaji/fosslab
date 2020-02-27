@@ -1,0 +1,1 @@
+The mkdir command is used to make new directory.

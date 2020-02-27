@@ -1,0 +1,1 @@
+man stands for manual which is a reference book of Linux OS.
